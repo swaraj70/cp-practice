@@ -7,6 +7,7 @@ Competitive programming practice problems and my solutions.
 Resources that can be used to learn competitive programming:
 
 - [BedirT's ACM-ICPC-Preparation Course](https://github.com/BedirT/ACM-ICPC-Preparation)
+- [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 - [Competitive Programming Algorithms](https://cp-algorithms.com)
 
 ## Online Judges / Problem Archives / Contest Sites
